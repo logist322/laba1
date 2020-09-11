@@ -31,6 +31,7 @@
 }
 
 .favorite-item__button {
+  padding: 0;
   position: relative;
   margin-left: auto;
   width: 28px;
